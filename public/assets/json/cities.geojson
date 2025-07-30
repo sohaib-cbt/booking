@@ -1,0 +1,6165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21168,
+          34.1463
+        ]
+      },
+      "properties": {
+        "name": "Abbottabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.31941,
+          27.93677
+        ]
+      },
+      "properties": {
+        "name": "Adilpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.25771,
+          29.14269
+        ]
+      },
+      "properties": {
+        "name": "Ahmadpur East",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.74344,
+          30.67791
+        ]
+      },
+      "properties": {
+        "name": "Ahmadpur Sial",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.12561,
+          34.00337
+        ]
+      },
+      "properties": {
+        "name": "Akora",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.61545,
+          36.30703
+        ]
+      },
+      "properties": {
+        "name": "Aliabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.52177,
+          30.48976
+        ]
+      },
+      "properties": {
+        "name": "Alik Ghund",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.91106,
+          29.38242
+        ]
+      },
+      "properties": {
+        "name": "Alipur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.34607,
+          33.53613
+        ]
+      },
+      "properties": {
+        "name": "Alizai",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63265,
+          34.92039
+        ]
+      },
+      "properties": {
+        "name": "Alpurai",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.92971,
+          34.00584
+        ]
+      },
+      "properties": {
+        "name": "Aman Garh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09078,
+          34.18729
+        ]
+      },
+      "properties": {
+        "name": "Amirabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06574,
+          30.29058
+        ]
+      },
+      "properties": {
+        "name": "Arifwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.24517,
+          34.10773
+        ]
+      },
+      "properties": {
+        "name": "Ashanagro Koto",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89724,
+          34.57173
+        ]
+      },
+      "properties": {
+        "name": "Athmuqam",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35977,
+          33.76671
+        ]
+      },
+      "properties": {
+        "name": "Attock City",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.23144,
+          26.45677
+        ]
+      },
+      "properties": {
+        "name": "Awaran",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6641,
+          31.99042
+        ]
+      },
+      "properties": {
+        "name": "Baddomalhi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.837,
+          24.656
+        ]
+      },
+      "properties": {
+        "name": "Badin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22368,
+          34.4377
+        ]
+      },
+      "properties": {
+        "name": "Baffa",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.75866,
+          27.75431
+        ]
+      },
+      "properties": {
+        "name": "Bagarji",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77608,
+          33.98111
+        ]
+      },
+      "properties": {
+        "name": "Bagh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.25272,
+          29.99835
+        ]
+      },
+      "properties": {
+        "name": "Bahawalnagar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.39083,
+          30.55083
+        ]
+      },
+      "properties": {
+        "name": "Bahawalnagar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6752,
+          29.39779
+        ]
+      },
+      "properties": {
+        "name": "Bahawalpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.83796,
+          30.73586
+        ]
+      },
+      "properties": {
+        "name": "Bakhri Ahmad Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.30215,
+          26.58761
+        ]
+      },
+      "properties": {
+        "name": "Bandhi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.60403,
+          32.98527
+        ]
+      },
+      "properties": {
+        "name": "Bannu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.69502,
+          36.32162
+        ]
+      },
+      "properties": {
+        "name": "Barishal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.52558,
+          29.89773
+        ]
+      },
+      "properties": {
+        "name": "Barkhan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83912,
+          30.57759
+        ]
+      },
+      "properties": {
+        "name": "Basirpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.86853,
+          30.78769
+        ]
+      },
+      "properties": {
+        "name": "Basti Dosa",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.97247,
+          34.6178
+        ]
+      },
+      "properties": {
+        "name": "Bat Khela",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02329,
+          34.67719
+        ]
+      },
+      "properties": {
+        "name": "Battagram",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.26794,
+          32.43816
+        ]
+      },
+      "properties": {
+        "name": "Begowala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.31178,
+          26.22718
+        ]
+      },
+      "properties": {
+        "name": "Bela",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.80754,
+          25.78497
+        ]
+      },
+      "properties": {
+        "name": "Berani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.82394,
+          29.04174
+        ]
+      },
+      "properties": {
+        "name": "Bhag",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.06471,
+          31.62685
+        ]
+      },
+      "properties": {
+        "name": "Bhakkar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89809,
+          32.26576
+        ]
+      },
+      "properties": {
+        "name": "Bhalwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.72139,
+          26.55831
+        ]
+      },
+      "properties": {
+        "name": "Bhan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64917,
+          31.56884
+        ]
+      },
+      "properties": {
+        "name": "Bhawana",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90865,
+          32.48206
+        ]
+      },
+      "properties": {
+        "name": "Bhera",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07846,
+          32.97465
+        ]
+      },
+      "properties": {
+        "name": "Bhimbar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.19466,
+          26.91041
+        ]
+      },
+      "properties": {
+        "name": "Bhiria",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.49143,
+          25.80565
+        ]
+      },
+      "properties": {
+        "name": "Bhit Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3635,
+          32.42968
+        ]
+      },
+      "properties": {
+        "name": "Bhopalwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6358,
+          27.183
+        ]
+      },
+      "properties": {
+        "name": "Bozdar Wada",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.33333,
+          24.86667
+        ]
+      },
+      "properties": {
+        "name": "Bulri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65,
+          30.16667
+        ]
+      },
+      "properties": {
+        "name": "B\u016brew\u0101la",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.83378,
+          27.85838
+        ]
+      },
+      "properties": {
+        "name": "Chak",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02834,
+          30.75202
+        ]
+      },
+      "properties": {
+        "name": "Chak Azam Sahu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82891,
+          31.54514
+        ]
+      },
+      "properties": {
+        "name": "Chak Five Hundred Seventy-five",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18317,
+          31.56808
+        ]
+      },
+      "properties": {
+        "name": "Chak Jhumra",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04522,
+          30.42919
+        ]
+      },
+      "properties": {
+        "name": "Chak One Hundred Twenty Nine Left",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.69737,
+          30.42388
+        ]
+      },
+      "properties": {
+        "name": "Chak Thirty-one -Eleven Left",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2048,
+          31.17772
+        ]
+      },
+      "properties": {
+        "name": "Chak Two Hundred Forty-nine Thal Development Authority",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85394,
+          32.93286
+        ]
+      },
+      "properties": {
+        "name": "Chakwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.45259,
+          30.91769
+        ]
+      },
+      "properties": {
+        "name": "Chaman",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.81176,
+          25.29362
+        ]
+      },
+      "properties": {
+        "name": "Chamber",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7406,
+          34.14822
+        ]
+      },
+      "properties": {
+        "name": "Charsadda",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.70507,
+          32.34434
+        ]
+      },
+      "properties": {
+        "name": "Chawinda",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91403,
+          31.75511
+        ]
+      },
+      "properties": {
+        "name": "Chenab Nagar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.89292,
+          33.82342
+        ]
+      },
+      "properties": {
+        "name": "Cherat Cantonement",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.78437,
+          25.5126
+        ]
+      },
+      "properties": {
+        "name": "Chhor",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.69155,
+          30.5301
+        ]
+      },
+      "properties": {
+        "name": "Chichawatni",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10407,
+          35.41287
+        ]
+      },
+      "properties": {
+        "name": "Chilas",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97836,
+          31.72091
+        ]
+      },
+      "properties": {
+        "name": "Chiniot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85772,
+          29.79713
+        ]
+      },
+      "properties": {
+        "name": "Chishtian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.78636,
+          35.8518
+        ]
+      },
+      "properties": {
+        "name": "Chitral",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98625,
+          32.71962
+        ]
+      },
+      "properties": {
+        "name": "Choa Saidan Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.92083,
+          28.01944
+        ]
+      },
+      "properties": {
+        "name": "Chowki Jamali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8,
+          31.75
+        ]
+      },
+      "properties": {
+        "name": "Chuchar-kana Mandi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.99298,
+          24.3944
+        ]
+      },
+      "properties": {
+        "name": "Chuhar Jamali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97908,
+          30.96621
+        ]
+      },
+      "properties": {
+        "name": "Chunian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.65167,
+          29.47489
+        ]
+      },
+      "properties": {
+        "name": "Dadhar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7769,
+          26.73033
+        ]
+      },
+      "properties": {
+        "name": "Dadu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.48438,
+          34.51106
+        ]
+      },
+      "properties": {
+        "name": "Daggar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.93722,
+          30.57053
+        ]
+      },
+      "properties": {
+        "name": "Daira Din Panah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.37614,
+          29.55769
+        ]
+      },
+      "properties": {
+        "name": "Dajal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.40616,
+          28.88846
+        ]
+      },
+      "properties": {
+        "name": "Dalbandin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.975,
+          32.64167
+        ]
+      },
+      "properties": {
+        "name": "Dandot RS",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.17978,
+          24.79382
+        ]
+      },
+      "properties": {
+        "name": "Daromehar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.10197,
+          31.78447
+        ]
+      },
+      "properties": {
+        "name": "Darya Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.28666,
+          26.67765
+        ]
+      },
+      "properties": {
+        "name": "Darya Khan Marri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35039,
+          32.32422
+        ]
+      },
+      "properties": {
+        "name": "Daska Kalan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2906,
+          35.29169
+        ]
+      },
+      "properties": {
+        "name": "Dasu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.57118,
+          32.87533
+        ]
+      },
+      "properties": {
+        "name": "Daud Khel",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.97079,
+          26.50158
+        ]
+      },
+      "properties": {
+        "name": "Daulatpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14099,
+          33.19282
+        ]
+      },
+      "properties": {
+        "name": "Daultala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.31835,
+          26.45528
+        ]
+      },
+      "properties": {
+        "name": "Daur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.35078,
+          28.37353
+        ]
+      },
+      "properties": {
+        "name": "Dera Allahyar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15849,
+          29.03619
+        ]
+      },
+      "properties": {
+        "name": "Dera Bugti",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.64029,
+          30.04587
+        ]
+      },
+      "properties": {
+        "name": "Dera Ghazi Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9017,
+          31.83129
+        ]
+      },
+      "properties": {
+        "name": "Dera Ismail Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22308,
+          28.54657
+        ]
+      },
+      "properties": {
+        "name": "Dera Murad Jamali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.75213,
+          29.57991
+        ]
+      },
+      "properties": {
+        "name": "Dhanot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.13706,
+          32.40613
+        ]
+      },
+      "properties": {
+        "name": "Dhaunkal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5709,
+          25.50484
+        ]
+      },
+      "properties": {
+        "name": "Dhoro Naro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.11098,
+          25.15657
+        ]
+      },
+      "properties": {
+        "name": "Digri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99621,
+          31.21735
+        ]
+      },
+      "properties": {
+        "name": "Dijkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.26557,
+          29.76584
+        ]
+      },
+      "properties": {
+        "name": "Dinan Bashnoian Wala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72039,
+          32.64101
+        ]
+      },
+      "properties": {
+        "name": "Dinga",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.65306,
+          30.66984
+        ]
+      },
+      "properties": {
+        "name": "Dipalpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.58114,
+          24.46688
+        ]
+      },
+      "properties": {
+        "name": "Diplo",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.73676,
+          33.4245
+        ]
+      },
+      "properties": {
+        "name": "Doaba",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.09715,
+          27.37421
+        ]
+      },
+      "properties": {
+        "name": "Dokri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.57323,
+          30.15307
+        ]
+      },
+      "properties": {
+        "name": "Duki",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.43639,
+          31.83439
+        ]
+      },
+      "properties": {
+        "name": "Dullewala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.24294,
+          29.74975
+        ]
+      },
+      "properties": {
+        "name": "Dunga Bunga",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.74344,
+          29.80275
+        ]
+      },
+      "properties": {
+        "name": "Dunyapur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.85632,
+          35.34712
+        ]
+      },
+      "properties": {
+        "name": "Eidgah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25996,
+          32.04237
+        ]
+      },
+      "properties": {
+        "name": "Eminabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08969,
+          31.41554
+        ]
+      },
+      "properties": {
+        "name": "Faisalabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03489,
+          29.46799
+        ]
+      },
+      "properties": {
+        "name": "Faqirwali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41362,
+          31.88642
+        ]
+      },
+      "properties": {
+        "name": "Faruka",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.06583,
+          32.17629
+        ]
+      },
+      "properties": {
+        "name": "Fazilpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85525,
+          29.19344
+        ]
+      },
+      "properties": {
+        "name": "Fort Abbas",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.72985,
+          25.11853
+        ]
+      },
+      "properties": {
+        "name": "Gadani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76383,
+          36.17683
+        ]
+      },
+      "properties": {
+        "name": "Gakuch",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.5215,
+          27.3517
+        ]
+      },
+      "properties": {
+        "name": "Gambat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.48564,
+          28.61321
+        ]
+      },
+      "properties": {
+        "name": "Gandava",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.90491,
+          30.83383
+        ]
+      },
+      "properties": {
+        "name": "Garh Maharaja",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.98033,
+          28.06029
+        ]
+      },
+      "properties": {
+        "name": "Garhi Khairo",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.5121,
+          27.90631
+        ]
+      },
+      "properties": {
+        "name": "Garhiyasin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.58534,
+          24.74182
+        ]
+      },
+      "properties": {
+        "name": "Gharo",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.08245,
+          28.13882
+        ]
+      },
+      "properties": {
+        "name": "Ghauspur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.31569,
+          28.00437
+        ]
+      },
+      "properties": {
+        "name": "Ghotki",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31245,
+          35.91869
+        ]
+      },
+      "properties": {
+        "name": "Gilgit",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.68323,
+          31.14926
+        ]
+      },
+      "properties": {
+        "name": "Gojra",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.07572,
+          27.43521
+        ]
+      },
+      "properties": {
+        "name": "Goth Garelo",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.68239,
+          26.88099
+        ]
+      },
+      "properties": {
+        "name": "Goth Phulji",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.95348,
+          27.19846
+        ]
+      },
+      "properties": {
+        "name": "Goth Radhan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30433,
+          33.25411
+        ]
+      },
+      "properties": {
+        "name": "Gujar Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.18705,
+          32.15567
+        ]
+      },
+      "properties": {
+        "name": "Gujranwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07542,
+          32.5742
+        ]
+      },
+      "properties": {
+        "name": "Gujrat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.33917,
+          32.67087
+        ]
+      },
+      "properties": {
+        "name": "Gulishah Kach",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.32541,
+          25.12163
+        ]
+      },
+      "properties": {
+        "name": "Gwadar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.56898,
+          32.64043
+        ]
+      },
+      "properties": {
+        "name": "Hadali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68802,
+          32.07095
+        ]
+      },
+      "properties": {
+        "name": "Hafizabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.42198,
+          25.81459
+        ]
+      },
+      "properties": {
+        "name": "Hala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0595,
+          33.53198
+        ]
+      },
+      "properties": {
+        "name": "Hangu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93493,
+          33.99783
+        ]
+      },
+      "properties": {
+        "name": "Haripur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.93824,
+          30.10077
+        ]
+      },
+      "properties": {
+        "name": "Harnai",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55429,
+          32.27871
+        ]
+      },
+      "properties": {
+        "name": "Harnoli",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13802,
+          29.61206
+        ]
+      },
+      "properties": {
+        "name": "Harunabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54566,
+          29.69221
+        ]
+      },
+      "properties": {
+        "name": "Hasilpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7432,
+          34.1691
+        ]
+      },
+      "properties": {
+        "name": "Hattian Bala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.69371,
+          30.45097
+        ]
+      },
+      "properties": {
+        "name": "Haveli Lakha",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15993,
+          34.05348
+        ]
+      },
+      "properties": {
+        "name": "Havelian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.49179,
+          33.9099
+        ]
+      },
+      "properties": {
+        "name": "Hazro City",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.41598,
+          27.21088
+        ]
+      },
+      "properties": {
+        "name": "Hingorja",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82327,
+          30.74168
+        ]
+      },
+      "properties": {
+        "name": "Hujra Shah Muqim",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.37366,
+          25.39242
+        ]
+      },
+      "properties": {
+        "name": "Hyderabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04329,
+          33.72148
+        ]
+      },
+      "properties": {
+        "name": "Islamabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.17982,
+          24.69904
+        ]
+      },
+      "properties": {
+        "name": "Islamkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.43761,
+          28.28187
+        ]
+      },
+      "properties": {
+        "name": "Jacobabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2774,
+          31.80541
+        ]
+      },
+      "properties": {
+        "name": "Jahanian Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20561,
+          32.64118
+        ]
+      },
+      "properties": {
+        "name": "Jalalpur Jattan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.22202,
+          29.5051
+        ]
+      },
+      "properties": {
+        "name": "Jalalpur Pirwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.59518,
+          29.64235
+        ]
+      },
+      "properties": {
+        "name": "Jampur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.28017,
+          25.43608
+        ]
+      },
+      "properties": {
+        "name": "Jamshoro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.01877,
+          33.43304
+        ]
+      },
+      "properties": {
+        "name": "Jand",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91815,
+          31.82098
+        ]
+      },
+      "properties": {
+        "name": "Jandiala Sher Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.41868,
+          31.3332
+        ]
+      },
+      "properties": {
+        "name": "Jaranwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.26732,
+          24.35492
+        ]
+      },
+      "properties": {
+        "name": "Jati",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.84474,
+          29.51827
+        ]
+      },
+      "properties": {
+        "name": "Jatoi Shimali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.28182,
+          32.29016
+        ]
+      },
+      "properties": {
+        "name": "Jauharabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.32594,
+          31.30568
+        ]
+      },
+      "properties": {
+        "name": "Jhang City",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.31687,
+          31.26981
+        ]
+      },
+      "properties": {
+        "name": "Jhang Sadr",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62275,
+          32.36192
+        ]
+      },
+      "properties": {
+        "name": "Jhawarian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73102,
+          32.93448
+        ]
+      },
+      "properties": {
+        "name": "Jhelum",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.88871,
+          25.95533
+        ]
+      },
+      "properties": {
+        "name": "Jhol",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.74573,
+          25.04852
+        ]
+      },
+      "properties": {
+        "name": "Jiwani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.61431,
+          26.69225
+        ]
+      },
+      "properties": {
+        "name": "Johi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.62917,
+          26.29583
+        ]
+      },
+      "properties": {
+        "name": "J\u0101m S\u0101hib",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.86269,
+          30.40472
+        ]
+      },
+      "properties": {
+        "name": "Kabirwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.98551,
+          24.48041
+        ]
+      },
+      "properties": {
+        "name": "Kadhan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.36899,
+          31.36709
+        ]
+      },
+      "properties": {
+        "name": "Kahna Nau",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.91437,
+          29.6243
+        ]
+      },
+      "properties": {
+        "name": "Kahror Pakka",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.38736,
+          33.59183
+        ]
+      },
+      "properties": {
+        "name": "Kahuta",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.07295,
+          34.99798
+        ]
+      },
+      "properties": {
+        "name": "Kakad Wari Dir Upper",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54638,
+          32.96164
+        ]
+      },
+      "properties": {
+        "name": "Kalabagh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64858,
+          32.20081
+        ]
+      },
+      "properties": {
+        "name": "Kalaswala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.59361,
+          29.02663
+        ]
+      },
+      "properties": {
+        "name": "Kalat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.59999,
+          31.97597
+        ]
+      },
+      "properties": {
+        "name": "Kaleke Mandi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.69793,
+          32.77998
+        ]
+      },
+      "properties": {
+        "name": "Kallar Kahar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.26631,
+          32.15512
+        ]
+      },
+      "properties": {
+        "name": "Kalur Kot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.64607,
+          30.72708
+        ]
+      },
+      "properties": {
+        "name": "Kamalia",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.36192,
+          32.84318
+        ]
+      },
+      "properties": {
+        "name": "Kamar Mushani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.00066,
+          27.58753
+        ]
+      },
+      "properties": {
+        "name": "Kambar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22304,
+          31.97526
+        ]
+      },
+      "properties": {
+        "name": "Kamoke",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.51229,
+          33.74698
+        ]
+      },
+      "properties": {
+        "name": "Kamra",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17974,
+          28.24574
+        ]
+      },
+      "properties": {
+        "name": "Kandhkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52193,
+          26.9155
+        ]
+      },
+      "properties": {
+        "name": "Kandiari",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21022,
+          27.05918
+        ]
+      },
+      "properties": {
+        "name": "Kandiaro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12286,
+          30.76468
+        ]
+      },
+      "properties": {
+        "name": "Kanganpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0104,
+          24.8608
+        ]
+      },
+      "properties": {
+        "name": "Karachi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.09354,
+          33.11633
+        ]
+      },
+      "properties": {
+        "name": "Karak",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.40643,
+          26.89709
+        ]
+      },
+      "properties": {
+        "name": "Karaundi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.60483,
+          24.80817
+        ]
+      },
+      "properties": {
+        "name": "Kario Ghanwar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.95153,
+          31.2246
+        ]
+      },
+      "properties": {
+        "name": "Karor",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.58364,
+          28.4326
+        ]
+      },
+      "properties": {
+        "name": "Kashmor",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.45025,
+          31.11866
+        ]
+      },
+      "properties": {
+        "name": "Kasur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          32.26
+        ]
+      },
+      "properties": {
+        "name": "Keshupur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.45094,
+          24.14422
+        ]
+      },
+      "properties": {
+        "name": "Keti Bandar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71133,
+          30.75236
+        ]
+      },
+      "properties": {
+        "name": "Khadan Khak",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.71777,
+          26.14713
+        ]
+      },
+      "properties": {
+        "name": "Khadro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.70363,
+          28.06437
+        ]
+      },
+      "properties": {
+        "name": "Khairpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.75915,
+          27.52948
+        ]
+      },
+      "properties": {
+        "name": "Khairpur Mir\u2019s",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.73489,
+          27.09064
+        ]
+      },
+      "properties": {
+        "name": "Khairpur Nathan Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.23804,
+          29.58139
+        ]
+      },
+      "properties": {
+        "name": "Khairpur Tamewah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88963,
+          34.05997
+        ]
+      },
+      "properties": {
+        "name": "Khalabat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73478,
+          32.74255
+        ]
+      },
+      "properties": {
+        "name": "Khandowa",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.93212,
+          30.30173
+        ]
+      },
+      "properties": {
+        "name": "Khanewal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.62213,
+          31.83294
+        ]
+      },
+      "properties": {
+        "name": "Khangah Dogran",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.16067,
+          29.91446
+        ]
+      },
+      "properties": {
+        "name": "Khangarh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.65694,
+          28.64739
+        ]
+      },
+      "properties": {
+        "name": "Khanpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.41302,
+          27.84088
+        ]
+      },
+      "properties": {
+        "name": "Khanpur Mahar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.41501,
+          28.58459
+        ]
+      },
+      "properties": {
+        "name": "Kharan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88697,
+          32.81612
+        ]
+      },
+      "properties": {
+        "name": "Kharian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01059,
+          32.6491
+        ]
+      },
+      "properties": {
+        "name": "Khewra",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.26763,
+          31.49936
+        ]
+      },
+      "properties": {
+        "name": "Khurrianwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3525,
+          32.29667
+        ]
+      },
+      "properties": {
+        "name": "Khush\u0101b",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.61096,
+          27.81193
+        ]
+      },
+      "properties": {
+        "name": "Khuzdar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44929,
+          33.58196
+        ]
+      },
+      "properties": {
+        "name": "Kohat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.25324,
+          29.89651
+        ]
+      },
+      "properties": {
+        "name": "Kohlu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.96699,
+          30.46907
+        ]
+      },
+      "properties": {
+        "name": "Kot Addu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.70821,
+          27.34156
+        ]
+      },
+      "properties": {
+        "name": "Kot Diji",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.54694,
+          32.33311
+        ]
+      },
+      "properties": {
+        "name": "Kot Ghulam Muhammad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.98723,
+          30.20379
+        ]
+      },
+      "properties": {
+        "name": "Kot Malik Barkhurdar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02987,
+          32.18843
+        ]
+      },
+      "properties": {
+        "name": "Kot Mumin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10126,
+          31.17068
+        ]
+      },
+      "properties": {
+        "name": "Kot Radha Kishan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62855,
+          32.41208
+        ]
+      },
+      "properties": {
+        "name": "Kot Rajkour",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.46837,
+          28.55207
+        ]
+      },
+      "properties": {
+        "name": "Kot Samaba",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.93125,
+          30.7737
+        ]
+      },
+      "properties": {
+        "name": "Kot Sultan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9022,
+          33.51836
+        ]
+      },
+      "properties": {
+        "name": "Kotli",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.49466,
+          32.58893
+        ]
+      },
+      "properties": {
+        "name": "Kotli Loharan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.30831,
+          25.36566
+        ]
+      },
+      "properties": {
+        "name": "Kotri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.45959,
+          31.93058
+        ]
+      },
+      "properties": {
+        "name": "Kulachi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.47892,
+          32.45775
+        ]
+      },
+      "properties": {
+        "name": "Kundian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97486,
+          32.52982
+        ]
+      },
+      "properties": {
+        "name": "Kunjah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56572,
+          25.17874
+        ]
+      },
+      "properties": {
+        "name": "Kunri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.33733,
+          33.38291
+        ]
+      },
+      "properties": {
+        "name": "Lachi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.11564,
+          32.15692
+        ]
+      },
+      "properties": {
+        "name": "Ladhewala Waraich",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35071,
+          31.558
+        ]
+      },
+      "properties": {
+        "name": "Lahore",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.69972,
+          27.84884
+        ]
+      },
+      "properties": {
+        "name": "Lakhi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.91234,
+          32.60724
+        ]
+      },
+      "properties": {
+        "name": "Lakki",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95746,
+          32.70138
+        ]
+      },
+      "properties": {
+        "name": "Lala Musa",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80116,
+          31.82462
+        ]
+      },
+      "properties": {
+        "name": "Lalian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.14108,
+          34.0988
+        ]
+      },
+      "properties": {
+        "name": "Landi Kotal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21204,
+          27.55898
+        ]
+      },
+      "properties": {
+        "name": "Larkana",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.93904,
+          30.96128
+        ]
+      },
+      "properties": {
+        "name": "Layyah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9512,
+          32.20393
+        ]
+      },
+      "properties": {
+        "name": "Liliani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.63244,
+          29.5339
+        ]
+      },
+      "properties": {
+        "name": "Lodhran",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.59795,
+          30.37051
+        ]
+      },
+      "properties": {
+        "name": "Loralai",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.33018,
+          29.86371
+        ]
+      },
+      "properties": {
+        "name": "Mach",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.45166,
+          27.75314
+        ]
+      },
+      "properties": {
+        "name": "Madeji",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.17398,
+          29.80123
+        ]
+      },
+      "properties": {
+        "name": "Mailsi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.93043,
+          34.56561
+        ]
+      },
+      "properties": {
+        "name": "Malakand",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21274,
+          32.55449
+        ]
+      },
+      "properties": {
+        "name": "Malakwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2122,
+          32.55492
+        ]
+      },
+      "properties": {
+        "name": "Malakwal City",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.20591,
+          24.94343
+        ]
+      },
+      "properties": {
+        "name": "Malir Cantonment",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79943,
+          30.83044
+        ]
+      },
+      "properties": {
+        "name": "Mamu Kanjan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68927,
+          31.58803
+        ]
+      },
+      "properties": {
+        "name": "Mananwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.49123,
+          32.58704
+        ]
+      },
+      "properties": {
+        "name": "Mandi Bahauddin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.38167,
+          31.89306
+        ]
+      },
+      "properties": {
+        "name": "Mangla",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44047,
+          31.38771
+        ]
+      },
+      "properties": {
+        "name": "Mankera",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19679,
+          34.33023
+        ]
+      },
+      "properties": {
+        "name": "Mansehra",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.04965,
+          34.19794
+        ]
+      },
+      "properties": {
+        "name": "Mardan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.84553,
+          29.79966
+        ]
+      },
+      "properties": {
+        "name": "Mastung",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.4467,
+          25.59709
+        ]
+      },
+      "properties": {
+        "name": "Matiari",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.65591,
+          25.0429
+        ]
+      },
+      "properties": {
+        "name": "Matli",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.82051,
+          27.18027
+        ]
+      },
+      "properties": {
+        "name": "Mehar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82306,
+          32.78518
+        ]
+      },
+      "properties": {
+        "name": "Mehmand Chak",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.02554,
+          28.10773
+        ]
+      },
+      "properties": {
+        "name": "Mehrabpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35679,
+          30.44067
+        ]
+      },
+      "properties": {
+        "name": "Mian Channun",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94857,
+          31.2024
+        ]
+      },
+      "properties": {
+        "name": "Mianke Mor",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.52847,
+          32.57756
+        ]
+      },
+      "properties": {
+        "name": "Mianwali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.56858,
+          30.16356
+        ]
+      },
+      "properties": {
+        "name": "Minchianabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.36265,
+          34.7795
+        ]
+      },
+      "properties": {
+        "name": "Mingora",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.07117,
+          33.00059
+        ]
+      },
+      "properties": {
+        "name": "Miran Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.09195,
+          27.75985
+        ]
+      },
+      "properties": {
+        "name": "Miro Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2601,
+          24.72852
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Bhtoro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.01255,
+          25.5276
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Khas",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.54914,
+          28.02136
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Mathelo",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.62797,
+          24.54692
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Sakro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.05019,
+          25.30981
+        ]
+      },
+      "properties": {
+        "name": "Mirwah Gorchani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.10615,
+          32.2454
+        ]
+      },
+      "properties": {
+        "name": "Mitha Tiwana",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.79707,
+          24.73701
+        ]
+      },
+      "properties": {
+        "name": "Mithi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.00016,
+          26.66317
+        ]
+      },
+      "properties": {
+        "name": "Moro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.84911,
+          30.80563
+        ]
+      },
+      "properties": {
+        "name": "Moza Shahwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.47824,
+          30.19679
+        ]
+      },
+      "properties": {
+        "name": "Multan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25772,
+          31.80258
+        ]
+      },
+      "properties": {
+        "name": "Muridke",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3903,
+          33.90836
+        ]
+      },
+      "properties": {
+        "name": "Murree",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82208,
+          30.85944
+        ]
+      },
+      "properties": {
+        "name": "Musa Khel Bazar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.49889,
+          30.89222
+        ]
+      },
+      "properties": {
+        "name": "Mustaf\u0101b\u0101d",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.19379,
+          30.07258
+        ]
+      },
+      "properties": {
+        "name": "Muzaffargarh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.47082,
+          34.37002
+        ]
+      },
+      "properties": {
+        "name": "Muzaffar\u0101b\u0101d",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6434,
+          25.06717
+        ]
+      },
+      "properties": {
+        "name": "Nabisar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70653,
+          31.4501
+        ]
+      },
+      "properties": {
+        "name": "Nankana Sahib",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.51587,
+          31.90376
+        ]
+      },
+      "properties": {
+        "name": "Narang Mandi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87303,
+          32.10197
+        ]
+      },
+      "properties": {
+        "name": "Narowal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.91644,
+          27.38137
+        ]
+      },
+      "properties": {
+        "name": "Nasirabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3609,
+          27.66684
+        ]
+      },
+      "properties": {
+        "name": "Naudero",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.40153,
+          24.85822
+        ]
+      },
+      "properties": {
+        "name": "Naukot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97117,
+          31.96258
+        ]
+      },
+      "properties": {
+        "name": "Naushahra Virkan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.12265,
+          26.8401
+        ]
+      },
+      "properties": {
+        "name": "Naushahro Firoz",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.40369,
+          26.23939
+        ]
+      },
+      "properties": {
+        "name": "Nawabshah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4833,
+          33.30614
+        ]
+      },
+      "properties": {
+        "name": "Nazir Town",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.03194,
+          27.34167
+        ]
+      },
+      "properties": {
+        "name": "New B\u0101d\u0101h",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75187,
+          33.14782
+        ]
+      },
+      "properties": {
+        "name": "New Mirpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.96656,
+          34.25195
+        ]
+      },
+      "properties": {
+        "name": "Noorabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.98123,
+          34.01583
+        ]
+      },
+      "properties": {
+        "name": "Nowshera",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.99834,
+          33.99829
+        ]
+      },
+      "properties": {
+        "name": "Nowshera Cantonment",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.02288,
+          29.55218
+        ]
+      },
+      "properties": {
+        "name": "Nushki",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45155,
+          30.81029
+        ]
+      },
+      "properties": {
+        "name": "Okara",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6357,
+          25.2088
+        ]
+      },
+      "properties": {
+        "name": "Ormara",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.79445,
+          34.00968
+        ]
+      },
+      "properties": {
+        "name": "Pabbi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.30094,
+          26.77455
+        ]
+      },
+      "properties": {
+        "name": "Pad Idan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.97055,
+          32.10502
+        ]
+      },
+      "properties": {
+        "name": "Paharpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.38944,
+          30.34314
+        ]
+      },
+      "properties": {
+        "name": "Pakpattan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.09459,
+          26.97186
+        ]
+      },
+      "properties": {
+        "name": "Panjgur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.11111,
+          27.85619
+        ]
+      },
+      "properties": {
+        "name": "Pano Aqil",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.10012,
+          33.89968
+        ]
+      },
+      "properties": {
+        "name": "Parachinar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.46921,
+          25.26302
+        ]
+      },
+      "properties": {
+        "name": "Pasni",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.66327,
+          32.26286
+        ]
+      },
+      "properties": {
+        "name": "Pasrur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85333,
+          31.02021
+        ]
+      },
+      "properties": {
+        "name": "Pattoki",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.57849,
+          34.008
+        ]
+      },
+      "properties": {
+        "name": "Peshawar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.579,
+          32.43104
+        ]
+      },
+      "properties": {
+        "name": "Phalia",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04456,
+          32.58662
+        ]
+      },
+      "properties": {
+        "name": "Pind Dadan Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.27339,
+          31.89844
+        ]
+      },
+      "properties": {
+        "name": "Pindi Bhattian",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2648,
+          33.24095
+        ]
+      },
+      "properties": {
+        "name": "Pindi Gheb",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.61848,
+          27.59178
+        ]
+      },
+      "properties": {
+        "name": "Pir Jo Goth",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.43455,
+          30.76663
+        ]
+      },
+      "properties": {
+        "name": "Pir Mahal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.99406,
+          30.58176
+        ]
+      },
+      "properties": {
+        "name": "Pishin",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.37803,
+          25.51122
+        ]
+      },
+      "properties": {
+        "name": "Pithoro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.67164,
+          30.29184
+        ]
+      },
+      "properties": {
+        "name": "Qadirpur Ran",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.66117,
+          30.72803
+        ]
+      },
+      "properties": {
+        "name": "Qila Abdullah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.35984,
+          30.70077
+        ]
+      },
+      "properties": {
+        "name": "Qila Saifullah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.00141,
+          30.18414
+        ]
+      },
+      "properties": {
+        "name": "Quetta",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.30345,
+          28.41987
+        ]
+      },
+      "properties": {
+        "name": "Rahim Yar Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21534,
+          31.24895
+        ]
+      },
+      "properties": {
+        "name": "Raiwind",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25483,
+          31.22078
+        ]
+      },
+      "properties": {
+        "name": "Raja Jang",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.32969,
+          29.10408
+        ]
+      },
+      "properties": {
+        "name": "Rajanpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.8537,
+          24.98391
+        ]
+      },
+      "properties": {
+        "name": "Rajo Khanani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.50623,
+          27.2872
+        ]
+      },
+      "properties": {
+        "name": "Ranipur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7804,
+          32.32794
+        ]
+      },
+      "properties": {
+        "name": "Rasulnagar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.28902,
+          27.80227
+        ]
+      },
+      "properties": {
+        "name": "Ratodero",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76043,
+          33.85782
+        ]
+      },
+      "properties": {
+        "name": "Rawala Kot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0479,
+          33.59733
+        ]
+      },
+      "properties": {
+        "name": "Rawalpindi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.59857,
+          30.87878
+        ]
+      },
+      "properties": {
+        "name": "Renala Khurd",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.99276,
+          34.06048
+        ]
+      },
+      "properties": {
+        "name": "Risalpur Cantonment",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.89503,
+          27.69203
+        ]
+      },
+      "properties": {
+        "name": "Rohri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9535,
+          28.68735
+        ]
+      },
+      "properties": {
+        "name": "Rojhan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.80386,
+          27.96705
+        ]
+      },
+      "properties": {
+        "name": "Rustam",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.12652,
+          28.3091
+        ]
+      },
+      "properties": {
+        "name": "Saddiqabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.33109,
+          31.97386
+        ]
+      },
+      "properties": {
+        "name": "Sahiwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10186,
+          30.66595
+        ]
+      },
+      "properties": {
+        "name": "Sahiwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35568,
+          34.74655
+        ]
+      },
+      "properties": {
+        "name": "Saidu Sharif",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.27444,
+          26.13845
+        ]
+      },
+      "properties": {
+        "name": "Sakrand",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39623,
+          25.28143
+        ]
+      },
+      "properties": {
+        "name": "Samaro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35338,
+          32.47835
+        ]
+      },
+      "properties": {
+        "name": "Sambrial",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.94917,
+          26.04694
+        ]
+      },
+      "properties": {
+        "name": "Sanghar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.38333,
+          31.71667
+        ]
+      },
+      "properties": {
+        "name": "Sangla Hill",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.43315,
+          33.76105
+        ]
+      },
+      "properties": {
+        "name": "Sanjwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.13763,
+          26.0403
+        ]
+      },
+      "properties": {
+        "name": "Sann",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75518,
+          32.90495
+        ]
+      },
+      "properties": {
+        "name": "Sarai Alamgir",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.78107,
+          32.82581
+        ]
+      },
+      "properties": {
+        "name": "Sarai Naurang",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9699,
+          30.59476
+        ]
+      },
+      "properties": {
+        "name": "Sarai Sidhu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.67418,
+          32.08586
+        ]
+      },
+      "properties": {
+        "name": "Sargodha",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.86126,
+          26.42495
+        ]
+      },
+      "properties": {
+        "name": "Sehwan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.46883,
+          27.2127
+        ]
+      },
+      "properties": {
+        "name": "Setharja Old",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5548,
+          34.21599
+        ]
+      },
+      "properties": {
+        "name": "Shabqadar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.90679,
+          27.84726
+        ]
+      },
+      "properties": {
+        "name": "Shahdad Kot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6228,
+          25.92539
+        ]
+      },
+      "properties": {
+        "name": "Shahdadpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.48531,
+          31.5709
+        ]
+      },
+      "properties": {
+        "name": "Shahkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46884,
+          32.2682
+        ]
+      },
+      "properties": {
+        "name": "Shahpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.65013,
+          26.15411
+        ]
+      },
+      "properties": {
+        "name": "Shahpur Chakar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.02209,
+          29.57517
+        ]
+      },
+      "properties": {
+        "name": "Shahr Sultan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.16008,
+          32.26361
+        ]
+      },
+      "properties": {
+        "name": "Shakargarh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10091,
+          31.46116
+        ]
+      },
+      "properties": {
+        "name": "Sharqpur Sharif",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98556,
+          31.71287
+        ]
+      },
+      "properties": {
+        "name": "Shekhupura",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.63823,
+          27.95558
+        ]
+      },
+      "properties": {
+        "name": "Shikarpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98491,
+          34.67872
+        ]
+      },
+      "properties": {
+        "name": "Shingli Bala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.17852,
+          34.32959
+        ]
+      },
+      "properties": {
+        "name": "Shinpokh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.87757,
+          31.91023
+        ]
+      },
+      "properties": {
+        "name": "Shorkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.29344,
+          29.88092
+        ]
+      },
+      "properties": {
+        "name": "Shujaabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.53134,
+          32.49268
+        ]
+      },
+      "properties": {
+        "name": "Sialkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.87726,
+          29.54299
+        ]
+      },
+      "properties": {
+        "name": "Sibi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.54064,
+          31.82539
+        ]
+      },
+      "properties": {
+        "name": "Sillanwali",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.80867,
+          26.03008
+        ]
+      },
+      "properties": {
+        "name": "Sinjhoro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.63372,
+          35.29787
+        ]
+      },
+      "properties": {
+        "name": "Skardu",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.39715,
+          27.30475
+        ]
+      },
+      "properties": {
+        "name": "Sobhodero",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.18207,
+          32.46211
+        ]
+      },
+      "properties": {
+        "name": "Sodhri",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.54298,
+          28.52038
+        ]
+      },
+      "properties": {
+        "name": "Sohbatpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.50875,
+          31.86541
+        ]
+      },
+      "properties": {
+        "name": "Sukheke Mandi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.85889,
+          27.70323
+        ]
+      },
+      "properties": {
+        "name": "Sukkur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.25999,
+          28.49276
+        ]
+      },
+      "properties": {
+        "name": "Surab",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.44773,
+          32.71816
+        ]
+      },
+      "properties": {
+        "name": "Surkhpur",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.46982,
+          34.12018
+        ]
+      },
+      "properties": {
+        "name": "Swabi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.85,
+          27.03333
+        ]
+      },
+      "properties": {
+        "name": "S\u012bta Road",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41594,
+          32.92766
+        ]
+      },
+      "properties": {
+        "name": "Talagang",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.24079,
+          30.52693
+        ]
+      },
+      "properties": {
+        "name": "Talamba",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.81437,
+          24.88454
+        ]
+      },
+      "properties": {
+        "name": "Talhar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13268,
+          31.03359
+        ]
+      },
+      "properties": {
+        "name": "Tandlianwala",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.66196,
+          25.76818
+        ]
+      },
+      "properties": {
+        "name": "Tando Adam",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.71745,
+          25.4605
+        ]
+      },
+      "properties": {
+        "name": "Tando Allahyar",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.96535,
+          24.78914
+        ]
+      },
+      "properties": {
+        "name": "Tando Bago",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.52923,
+          25.42813
+        ]
+      },
+      "properties": {
+        "name": "Tando Jam",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20251,
+          25.99625
+        ]
+      },
+      "properties": {
+        "name": "Tando Mitha Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.53677,
+          25.12384
+        ]
+      },
+      "properties": {
+        "name": "Tando Muhammad Khan",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.65238,
+          34.3009
+        ]
+      },
+      "properties": {
+        "name": "Tangi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9976,
+          28.27886
+        ]
+      },
+      "properties": {
+        "name": "Tangwani",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.38315,
+          32.21707
+        ]
+      },
+      "properties": {
+        "name": "Tank",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.65054,
+          30.70358
+        ]
+      },
+      "properties": {
+        "name": "Taunsa",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.24383,
+          35.47836
+        ]
+      },
+      "properties": {
+        "name": "Thal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.11759,
+          26.9423
+        ]
+      },
+      "properties": {
+        "name": "Tharu Shah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.92353,
+          24.74745
+        ]
+      },
+      "properties": {
+        "name": "Thatta",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7755,
+          28.2403
+        ]
+      },
+      "properties": {
+        "name": "Thul",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.84423,
+          34.82659
+        ]
+      },
+      "properties": {
+        "name": "Timargara",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.48275,
+          30.97127
+        ]
+      },
+      "properties": {
+        "name": "Toba Tek Singh",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.62147,
+          34.07034
+        ]
+      },
+      "properties": {
+        "name": "Topi",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.04849,
+          26.00122
+        ]
+      },
+      "properties": {
+        "name": "Turbat",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.73114,
+          28.16429
+        ]
+      },
+      "properties": {
+        "name": "Ubauro",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.74184,
+          25.36329
+        ]
+      },
+      "properties": {
+        "name": "Umarkot",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8768,
+          35.2074
+        ]
+      },
+      "properties": {
+        "name": "Upper Dir",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.04367,
+          28.17723
+        ]
+      },
+      "properties": {
+        "name": "Usta Muhammad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.62194,
+          25.80722
+        ]
+      },
+      "properties": {
+        "name": "Uthal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.76274,
+          34.18775
+        ]
+      },
+      "properties": {
+        "name": "Utmanzai",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3556,
+          30.0445
+        ]
+      },
+      "properties": {
+        "name": "Vihari",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5725,
+          32.29889
+        ]
+      },
+      "properties": {
+        "name": "Wana",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.79654,
+          27.44805
+        ]
+      },
+      "properties": {
+        "name": "Warah",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12,
+          32.44324
+        ]
+      },
+      "properties": {
+        "name": "Wazirabad",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.74459,
+          29.12122
+        ]
+      },
+      "properties": {
+        "name": "Yazman",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8999,
+          32.34464
+        ]
+      },
+      "properties": {
+        "name": "Zafarwal",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.52341,
+          28.81284
+        ]
+      },
+      "properties": {
+        "name": "Zahir Pir",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4669,
+          34.0595
+        ]
+      },
+      "properties": {
+        "name": "Zaida",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4493,
+          31.34082
+        ]
+      },
+      "properties": {
+        "name": "Zhob",
+        "country": "PK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.72562,
+          30.38244
+        ]
+      },
+      "properties": {
+        "name": "Ziarat",
+        "country": "PK"
+      }
+    }
+  ]
+}
