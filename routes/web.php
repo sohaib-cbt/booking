@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\RoomController;
 use App\Http\Controllers\Admin\SchoolController;
 use App\Http\Controllers\Admin\TeamController;
 use App\Http\Controllers\Admin\TherapistController;
+use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\BookingReportController;
 use Illuminate\Support\Facades\Auth;
 
@@ -58,11 +59,16 @@ Route::middleware('auth')->group(function () {
     Route::post('/change-status/{id}', [BookingController::class, 'changeStatus'])->name('bookings.change.status');
 
     Route::post('/group-booking', [BookingController::class, 'groupBookings'])->name('group.bookings');
+    Route::delete('/group-booking/{group_id}/remove-booking/{booking_id}', [BookingController::class, 'removeBooking'])->name('group-booking.remove-booking');
 
 
     // Contact Routes
     Route::resource('contacts', ContactController::class);
     Route::get('contacts-data', [ContactController::class, 'getContactData'])->name('contact.getdata');
+
+    //Profile Routes
+    Route::get('update-profile', [ProfileController::class, 'profile'])->name('profile');
+    Route::put('/profile/update', [ProfileController::class, 'update'])->name('profile.update');
 
     /**
      * Booking Reports
@@ -70,4 +76,5 @@ Route::middleware('auth')->group(function () {
     Route::get('booking-reports', [BookingReportController::class, 'booking_reports'])->name('booking.reports');
     Route::get('get-booking-reports', [BookingReportController::class, 'get_booking_reports'])->name('reports.data');
     Route::get('/reports/download', [BookingReportController::class, 'downloadReport'])->name('reports.download');
+
 });

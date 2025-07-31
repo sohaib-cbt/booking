@@ -22,80 +22,120 @@ class BookingController extends Controller
     public function index()
     {
         $existingGroups = Group::get();
-        return view('admin.booking.index', compact('existingGroups'));
+        $therapists = Therapist::get();
+        $schools = School::get();
+        return view('admin.booking.index', compact('existingGroups','therapists','schools'));
     }
 
     // Fetch Booking Record
     public function getBookingData(Request $request)
     {
         if ($request->ajax()) {
-            $query = Booking::orderBy('id', 'desc')->where('status', 'active');
+            $query = Booking::with('groups', 'contacts')
+                ->orderBy('id', 'desc');
+
+            // Apply filters
+            if ($request->filled('status')) {
+                $query->whereHas('contacts', function ($q) use ($request) {
+                    $q->where('contact_type', $request->status);
+                });
+            }
+
+            if ($request->filled('therapist')) {
+                $query->where('therapist_id', $request->therapist);
+            }
+
+            if ($request->filled('client_name')) {
+                $query->where('client_name', 'like', '%' . $request->client_name . '%');
+            }
+
+            if ($request->filled('location')) {
+                $query->where('location', 'like', '%' . $request->location . '%');
+            }
+
+            if ($request->filled('archive')) {
+                $query->where('status', $request->archive);
+            } else {
+                $query->where('status', 'active');
+            }
+
+            if ($request->filled('type')) {
+                $query->where('booking_form_type', $request->type);
+            }
+
+            if ($request->filled('school_id')) {
+                $query->where('school_id', $request->school_id);
+            }
 
             return DataTables::of($query)
                 ->addIndexColumn()
-
-                // 1. Checkbox Column
                 ->addColumn('checkbox', function ($row) {
-                    return '<input type="checkbox" class="rowCheckbox" value="' . $row->id . '">';
+                    $isGrouped = $row->groups->isNotEmpty();
+                    $value = $isGrouped ? '' : $row->id;
+                    $disabled = $isGrouped ? 'disabled readonly' : '';
+                    return '<input type="checkbox" class="rowCheckbox" value="' . $value . '" ' . $disabled . '>';
+                })
+              ->addColumn('group_name', function ($row) {
+                    $isGrouped = $row->groups->isNotEmpty();
+                    $group = $isGrouped ? $row->groups->first() : null;
+
+                    if ($isGrouped && $group) {
+                        $route = route('group-booking.remove-booking', [
+                            'group_id' => $group->id,
+                            'booking_id' => $row->id,
+                        ]);
+
+                        $label = $group->title;
+                        $description = $group->description ?? 'No description available';
+
+                        $clients = $group->bookings->pluck('client_name')->unique()->filter()->values();
+
+                        $clientListJson = htmlspecialchars(json_encode($clients));
+
+                        $link = '<a href="javascript:void(0);"
+                                    class="open-group-modal text-decoration-underline"
+                                    data-route="' . $route . '"
+                                    data-label="' . $label . '"
+                                    data-description="' . $description . '"
+                                    data-clients="' . $clientListJson . '">'
+                                    . $label .
+                                '</a>';
+
+                        $svg = '<svg class="delete-booking" data-route="' . $route . '" height="15" viewBox="0 0 512 512" width="15" xmlns="http://www.w3.org/2000/svg" style="cursor:pointer; margin-left: 5px;"><circle cx="256" cy="256" fill="#ff2147" r="256"/><path d="M312.75 256l76.72-76.72a22.29 22.29 0 000-31.53l-25.22-25.22a22.29 22.29 0 00-31.53 0l-76.72 76.72-76.72-76.72a22.29 22.29 0 00-31.53 0l-25.22 25.22a22.29 22.29 0 000 31.53l76.72 76.72-76.72 76.72a22.29 22.29 0 000 31.53l25.22 25.22a22.29 22.29 0 0031.53 0l76.72-76.72 76.72 76.72a22.29 22.29 0 0031.53 0l25.22-25.22a22.29 22.29 0 000-31.53z" fill="#fff"/></svg>';
+
+                        return $link . $svg;
+                    }
+
+                    return '<span class="text-muted">N/A</span>';
                 })
 
-                // 2. Group Name
-                ->addColumn('group_name', function ($row) {
-                    return 'Demo' ?? 'N/A';
-                })
 
-                // 4. Contacts with count
                 ->addColumn('contacts', function ($row) {
                     $route = route('contacts.index', ['booking_id' => $row->id]);
                     $count = $row->contacts->count();
                     return '<a href="' . $route . '" class="contact-link" title="View ' . $count . ' contact(s)">Contact (' . $count . ')</a>';
                 })
-
-
-                // 5. Added Date
-                ->addColumn('added', function ($row) {
-                    return $row->created_at ? $row->created_at->format('Y-m-d h:i A') : 'N/A';
-                })
-
-                // 6. Last Change Date
-                ->addColumn('last_change', function ($row) {
-                    return $row->updated_at ? $row->updated_at->format('Y-m-d h:i A') : 'N/A';
-                })
-
-
-                // 7. Action Buttons
+                ->addColumn('added', fn($row) => $row->created_at ? $row->created_at->format('Y-m-d h:i A') : 'N/A')
+                ->addColumn('last_change', fn($row) => $row->updated_at ? $row->updated_at->format('Y-m-d h:i A') : 'N/A')
+                ->addColumn('status', fn($row) => $row->status == 'active' ? '<span class="badge badge-light-success">Active</span>' : '<span class="badge badge-light-danger">Archive</span>')
                 ->addColumn('action', function ($row) {
                     $editUrl = route('bookings.edit', $row->id);
                     $deleteRoute = route('bookings.destroy', $row->id);
                     $statusRoute = route('bookings.change.status', $row->id);
-
                     return '
                         <ul class="action">
-                            <li class="edit">
-                                <a href="#" class="change-status" data-route="' . $statusRoute . '" title="Archive">
-                                    <i class="fa fa-archive"></i>
-                                </a>
-                            </li>
-                            <li class="edit">
-                                <a href="' . $editUrl . '">
-                                    <i class="icon-pencil-alt"></i>
-                                </a>
-                            </li>
-                            <li class="delete">
-                                <a href="#" class="delete-record" data-route="' . $deleteRoute . '">
-                                    <i class="icon-trash"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    ';
+                            <li class="edit"><a href="#" class="change-status" data-route="' . $statusRoute . '" title="Archive"><i class="fa fa-archive"></i></a></li>
+                            <li class="edit"><a href="' . $editUrl . '"><i class="icon-pencil-alt"></i></a></li>
+                            <li class="delete"><a href="#" class="delete-record" data-route="' . $deleteRoute . '"><i class="icon-trash"></i></a></li>
+                        </ul>';
                 })
-
-                ->rawColumns(['checkbox', 'contacts', 'action']) // enable raw HTML
+                ->rawColumns(['checkbox', 'group_name', 'contacts','status','action'])
                 ->make(true);
         }
 
         return abort(404);
     }
+
 
     /**
      * Show the form for creating a new resource.
@@ -527,6 +567,9 @@ class BookingController extends Controller
     }
 
 
+    /**
+     * Group Booking.
+     */
     public function groupBookings(Request $request)
     {
         $request->validate([
@@ -570,7 +613,15 @@ class BookingController extends Controller
         return redirect()->back()->with('success', 'Bookings grouped successfully!');
     }
 
-    /**
-     * Booking Reports
-     */
+    // Remove Booking Group
+    public function removeBooking($group_id, $booking_id)
+    {
+        DB::table('booking_group_booking')
+            ->where('group_id', $group_id)
+            ->where('booking_id', $booking_id)
+            ->delete();
+
+        return response()->json(['message' => 'Booking removed from group']);
+    }
+
 }
