@@ -61,7 +61,7 @@ class Booking extends Model
 
     public function groups()
     {
-        return $this->belongsToMany(BookingGroup::class, 'booking_group_booking', 'booking_id', 'group_id');
+        return $this->belongsToMany(Group::class, 'booking_group_booking', 'booking_id', 'group_id');
     }
 
 }

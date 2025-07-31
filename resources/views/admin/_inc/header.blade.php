@@ -26,10 +26,16 @@
                 <li>
                     <div class="mode"><i class="moon" data-feather="moon"> </i></div>
                 </li>
+                @php
+                    $user = auth()->user();
+                    $profileImage = $user->image && file_exists(public_path($user->image))
+                        ? asset($user->image)
+                        : asset('assets/images/profile.png');
+                @endphp
 
                 <li class="profile-nav onhover-dropdown">
                     <div class="media profile-media">
-                        <img class="b-r-10" src="{{ asset('assets/images/profile.png') }}" alt="" width="50" height="50">
+                        <img class="b-r-10" src="{{ $profileImage }}" alt="Profile Image" width="50" height="50">
 
                         <div class="media-body d-xxl-block d-none box-col-none" style="margin-top: 4px">
                             <div class="d-flex align-items-center gap-2"> <span>{{ auth()->user()->name }}</span><i class="middle fa fa-angle-down"> </i></div>
@@ -37,7 +43,7 @@
                         </div>
                     </div>
                     <ul class="profile-dropdown onhover-show-div">
-                        <li><a href="#"><i data-feather="user"></i><span>My Profile</span></a>
+                        <li><a href="{{ route('profile') }}"><i data-feather="user"></i><span>My Profile</span></a>
                         </li>
                         <li>
                             <div class="customizer-links" style="display: flex; ">

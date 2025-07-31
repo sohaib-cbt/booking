@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\RoomController;
 use App\Http\Controllers\Admin\SchoolController;
 use App\Http\Controllers\Admin\TeamController;
 use App\Http\Controllers\Admin\TherapistController;
+use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Auth;
 
 // Root redirect to login
@@ -56,10 +57,14 @@ Route::middleware('auth')->group(function () {
     Route::post('/change-status/{id}', [BookingController::class, 'changeStatus'])->name('bookings.change.status');
 
     Route::post('/group-booking', [BookingController::class, 'groupBookings'])->name('group.bookings');
+    Route::delete('/group-booking/{group_id}/remove-booking/{booking_id}', [BookingController::class, 'removeBooking'])->name('group-booking.remove-booking');
 
 
     // Contact Routes
     Route::resource('contacts', ContactController::class);
     Route::get('contacts-data', [ContactController::class, 'getContactData'])->name('contact.getdata');
 
+    //Profile Routes
+    Route::get('update-profile', [ProfileController::class, 'profile'])->name('profile');
+    Route::put('/profile/update', [ProfileController::class, 'update'])->name('profile.update');
 });
