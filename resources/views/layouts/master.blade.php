@@ -112,25 +112,6 @@
     <script src="{{ asset('assets/js/slick/slick.js') }}"></script>
     <script src="{{ asset('assets/js/header-slick.js') }}"></script>
 
-
-    <script src="{{ asset('assets/js/chart/apex-chart/apex-chart.js') }}"></script>
-    {{-- <script src="{{ asset('assets/js/chart/apex-chart/stock-prices.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/chart/apex-chart/moment.min.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/notify/bootstrap-notify.min.js') }}"></script> --}}
-    <!-- Plugins JS start-->
-
-
-    {{-- <script src="{{ asset('assets/js/chart/echart/data/symbols.js') }}"></script> --}}
-    <!-- calendar js-->
-    <script src="{{ asset('assets/js/dashboard/default.js') }}"></script>
-    {{-- <script src="{{ asset('assets/js/typeahead/handlebars.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/typeahead/typeahead.bundle.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/typeahead/typeahead.custom.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/typeahead-search/handlebars.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/typeahead-search/typeahead-custom.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/height-equal.js') }}"></script> --}}
-    {{-- <script src="{{ asset('assets/js/animation/wow/wow.min.js') }}"></script> --}}
-
     <!-- Theme js-->
     <script src="{{ asset('assets/js/script.js') }}"></script>
     <script src="{{ asset('assets/js/theme-customizer/customizer.js') }}"></script>

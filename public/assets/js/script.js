@@ -1,12 +1,5 @@
 /*! -----------------------------------------------------------------------------------
 
-    Template Name: Riho Admin
-    Template URI: https://admin.pixelstrap.net/riho/template/
-    Description: This is Admin theme
-    Author: Pixelstrap
-    Author URI: https://themeforest.net/user/pixelstrap
-
------------------------------------------------------------------------------------
 
         01. password show hide
         02. Background Image js
@@ -155,12 +148,12 @@
       $("body").removeClass("dark-only");
       $("body").addClass("light");
     }
-  }); 
+  });
   // $("body").addClass(
   //   localStorage.getItem("mode")
   //     ? localStorage.getItem("mode")
   //     : "light"
-  // ); 
+  // );
   $(".mode").addClass(
     localStorage.getItem("mode") === "dark-only" ? "active" : " "
   );
@@ -382,6 +375,6 @@
       document.getElementById("searchInput").classList.remove("show")
     }
   })
-  // ================ show and hide input css end 
+  // ================ show and hide input css end
 
 })(jQuery);

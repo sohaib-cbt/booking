@@ -16,7 +16,7 @@
                     </div>
                     <div class="col-6">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="{{ route('schools.index') }}">
+                            <li class="breadcrumb-item"><a href="{{ route('therapists.index') }}">
                                     <svg class="stroke-icon">
                                         <use href="{{ asset('assets/svg/icon-sprite.svg#stroke-home') }}"></use>
                                     </svg></a></li>
@@ -71,7 +71,7 @@
 
                                     <div class="card-footer text-end">
                                         <button class="btn btn-primary me-2" type="submit">Submit</button>
-                                        <a href="{{ route('schools.index') }}" class="btn btn-light">Cancel</a>
+                                        <a href="{{ route('therapists.index') }}" class="btn btn-light">Cancel</a>
                                     </div>
                                 </form>
 

@@ -28,11 +28,10 @@
                     </div>
                     <div class="col-6">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.html">
+                            <li class="breadcrumb-item"><a href="{{ route('contacts.index') }}">
                                     <svg class="stroke-icon">
                                         <use href="{{ asset('assets/svg/icon-sprite.svg#stroke-home') }}"></use>
                                     </svg></a></li>
-                            <li class="breadcrumb-item">Data Tables</li>
                             <li class="breadcrumb-item active">Contacts</li>
                         </ol>
                     </div>

@@ -24,7 +24,7 @@ class BookingController extends Controller
         $existingGroups = Group::get();
         $therapists = Therapist::get();
         $schools = School::get();
-        return view('admin.booking.index', compact('existingGroups','therapists','schools'));
+        return view('admin.booking.index', compact('existingGroups', 'therapists', 'schools'));
     }
 
     // Fetch Booking Record
@@ -75,7 +75,7 @@ class BookingController extends Controller
                     $disabled = $isGrouped ? 'disabled readonly' : '';
                     return '<input type="checkbox" class="rowCheckbox" value="' . $value . '" ' . $disabled . '>';
                 })
-              ->addColumn('group_name', function ($row) {
+                ->addColumn('group_name', function ($row) {
                     $isGrouped = $row->groups->isNotEmpty();
                     $group = $isGrouped ? $row->groups->first() : null;
 
@@ -98,8 +98,8 @@ class BookingController extends Controller
                                     data-label="' . $label . '"
                                     data-description="' . $description . '"
                                     data-clients="' . $clientListJson . '">'
-                                    . $label .
-                                '</a>';
+                            . $label .
+                            '</a>';
 
                         $svg = '<svg class="delete-booking" data-route="' . $route . '" height="15" viewBox="0 0 512 512" width="15" xmlns="http://www.w3.org/2000/svg" style="cursor:pointer; margin-left: 5px;"><circle cx="256" cy="256" fill="#ff2147" r="256"/><path d="M312.75 256l76.72-76.72a22.29 22.29 0 000-31.53l-25.22-25.22a22.29 22.29 0 00-31.53 0l-76.72 76.72-76.72-76.72a22.29 22.29 0 00-31.53 0l-25.22 25.22a22.29 22.29 0 000 31.53l76.72 76.72-76.72 76.72a22.29 22.29 0 000 31.53l25.22 25.22a22.29 22.29 0 0031.53 0l76.72-76.72 76.72 76.72a22.29 22.29 0 0031.53 0l25.22-25.22a22.29 22.29 0 000-31.53z" fill="#fff"/></svg>';
 
@@ -129,7 +129,7 @@ class BookingController extends Controller
                             <li class="delete"><a href="#" class="delete-record" data-route="' . $deleteRoute . '"><i class="icon-trash"></i></a></li>
                         </ul>';
                 })
-                ->rawColumns(['checkbox', 'group_name', 'contacts','status','action'])
+                ->rawColumns(['checkbox', 'group_name', 'contacts', 'status', 'action'])
                 ->make(true);
         }
 
@@ -370,6 +370,13 @@ class BookingController extends Controller
      */
     public function updateCentreHome(Request $request)
     {
+        $filteredRooms = array_filter($request->input('rooms', []), function ($value) {
+            return $value !== null && $value !== '';
+        });
+
+        // Merge filtered rooms back into the request
+        $request->merge(['rooms' => $filteredRooms]);
+
         // Validate request
         $validated = $request->validate([
             'client_name' => 'required|string|max:255',
@@ -385,7 +392,7 @@ class BookingController extends Controller
             'report_time' => 'nullable|string',
             'reoccur_app_info' => 'nullable|string',
             'rooms' => 'nullable|array',
-            'rooms.*' => 'nullable|exists:rooms,id',
+            'rooms.*' => 'exists:rooms,id',
             'inform_to' => 'nullable|array',
             'inform_to.*' => 'string',
             'comments' => 'nullable|string',
@@ -623,5 +630,4 @@ class BookingController extends Controller
 
         return response()->json(['message' => 'Booking removed from group']);
     }
-
 }

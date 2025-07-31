@@ -1398,6 +1398,9 @@
                                                 </td>
                                             </tr>
                                         @empty
+                                        <tr>
+                                            <td colspan="5">No Record Found</td>
+                                        </tr>
                                         @endforelse
                                     </tbody>
                                 </table>
@@ -1412,6 +1415,8 @@
 @endsection
 
 @section('scripts')
+    <script src="{{ asset('assets/js/chart/apex-chart/apex-chart.js') }}"></script>
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             let loader = `<div class="text-center p-5"><div class="spinner-border text-primary"></div></div>`;

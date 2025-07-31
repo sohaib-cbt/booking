@@ -19,8 +19,7 @@
     <div class="tab-content" id="c-pills-tabContent">
       <div class="customizer-header">
         <i class="icofont-close icon-close"></i>
-        <span class="f-20 f-w-600 txt-dark">Unlocking Creativity</span>
-        <p class="mb-0">Try It Real Time <i class="fa fa-thumbs-o-up txt-primary"></i></p>
+        <span class="f-20 f-w-600 txt-dark">Customizations</span>
       </div>
       <div class="customizer-body custom-scrollbar">
         <div class="tab-pane fade show active" id="c-pills-home" role="tabpanel" aria-labelledby="c-pills-home-tab">

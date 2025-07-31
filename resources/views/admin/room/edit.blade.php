@@ -53,7 +53,7 @@
 
                                     <div class="card-footer text-end">
                                         <button class="btn btn-primary me-2" type="submit">Submit</button>
-                                        <a href="{{ route('schools.index') }}" class="btn btn-light">Cancel</a>
+                                        <a href="{{ route('rooms.index') }}" class="btn btn-light">Cancel</a>
                                     </div>
                                 </form>
 

@@ -77,7 +77,7 @@ class ReportsExport implements FromCollection, WithHeadings, WithStyles, WithEve
                 'entry_type' => $booking->entry_type
                     ? ucwords(str_replace('_', ' ', $booking->entry_type))
                     : $booking->entry_type,
-                'school_id' => $booking->school_id,
+                'school_id' => ucwords($booking->school?->school_name),
                 'private_room_area' => $booking->private_room_area,
                 'specific_time' => $booking->specific_time,
                 'other_app_scheduling_info' => is_string($booking->other_app_scheduling_info) ? implode(', ', json_decode($booking->other_app_scheduling_info, true) ?? []) : $booking->other_app_scheduling_info,
