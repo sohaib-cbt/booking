@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\RoomController;
 use App\Http\Controllers\Admin\SchoolController;
 use App\Http\Controllers\Admin\TeamController;
 use App\Http\Controllers\Admin\TherapistController;
+use App\Http\Controllers\BookingReportController;
 use Illuminate\Support\Facades\Auth;
 
 // Root redirect to login
@@ -21,6 +22,7 @@ Auth::routes([]);
 // Only allow access to dashboard if logged in
 Route::middleware('auth')->group(function () {
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('admin.dashboard');
+    Route::get('/booking-chart-data', [DashboardController::class, 'booking_chart_data']);
 
     // Groups Routes
     Route::resource('groups', GroupController::class);
@@ -62,4 +64,10 @@ Route::middleware('auth')->group(function () {
     Route::resource('contacts', ContactController::class);
     Route::get('contacts-data', [ContactController::class, 'getContactData'])->name('contact.getdata');
 
+    /**
+     * Booking Reports
+     */
+    Route::get('booking-reports', [BookingReportController::class, 'booking_reports'])->name('booking.reports');
+    Route::get('get-booking-reports', [BookingReportController::class, 'get_booking_reports'])->name('reports.data');
+    Route::get('/reports/download', [BookingReportController::class, 'downloadReport'])->name('reports.download');
 });

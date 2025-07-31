@@ -13,12 +13,11 @@
             <div>
                 <a class="toggle-sidebar" href="#"> <i class="iconly-Category icli"> </i></a>
                 <div class="d-flex align-items-center gap-2 ">
-                    <h4 class="f-w-600">Welcome Admin</h4>
+                    <h4 class="f-w-600">Welcome {{ ucwords(Auth::user()->name) }}</h4>
                     <img class="mt-0" src="{{ asset('assets/images/hand.gif') }}" alt="hand-gif">
                 </div>
             </div>
-            <div class="welcome-content d-xl-block d-none"><span class="text-truncate col-12">Here’s what’s
-                    happening with your store today. </span>
+            <div class="welcome-content d-xl-block d-none"><span class="text-truncate col-12">Here’s an overview of your latest activities. </span>
             </div>
         </div>
         <div class="nav-right col-xxl-7 col-xl-6 col-md-7 col-8 pull-right right-header p-0 ms-auto">
@@ -29,23 +28,30 @@
 
                 <li class="profile-nav onhover-dropdown">
                     <div class="media profile-media">
-                        <img class="b-r-10" src="{{ asset('assets/images/profile.png') }}" alt="" width="50" height="50">
+                        <img class="b-r-10" src="{{ asset('assets/images/profile.png') }}" alt="" width="50"
+                            height="50">
 
                         <div class="media-body d-xxl-block d-none box-col-none" style="margin-top: 4px">
-                            <div class="d-flex align-items-center gap-2"> <span>{{ auth()->user()->name }}</span><i class="middle fa fa-angle-down"> </i></div>
+                            <div class="d-flex align-items-center gap-2"> <span>{{ auth()->user()->name }}</span><i
+                                    class="middle fa fa-angle-down"> </i></div>
                             <p class="mb-0 font-roboto">Admin</p>
                         </div>
                     </div>
                     <ul class="profile-dropdown onhover-show-div">
                         <li><a href="#"><i data-feather="user"></i><span>My Profile</span></a>
                         </li>
-                        <li>
-                            <div class="customizer-links" style="display: flex; ">
-                                <a id="c-pills-home-tab" data-bs-toggle="pill" href="#c-pills-home" role="tab" aria-controls="c-pills-home" aria-selected="true" >
-                                    <i data-feather="settings"></i><span>Settings</span>
-                                </a>
-                            </div>
+                        <li class="customizer-links"
+                            style="display: flex;margin-top:22px !important; position: static !important; box-shadow:none">
+                            <a id="c-pills-home-tab" data-bs-toggle="pill" href="#c-pills-home" role="tab"
+                                aria-controls="c-pills-home" aria-selected="true">
+                                <i data-feather="settings"></i><span>Settings</span>
+                            </a>
                         </li>
+                        {{-- <li>
+                            <a>
+                                <i data-feather="settings"></i><span>Settings</span>
+                            </a>
+                        </li> --}}
 
                         <li>
                             <form method="POST" action="{{ route('logout') }}">

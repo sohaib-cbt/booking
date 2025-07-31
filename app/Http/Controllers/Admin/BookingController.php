@@ -570,5 +570,7 @@ class BookingController extends Controller
         return redirect()->back()->with('success', 'Bookings grouped successfully!');
     }
 
-
+    /**
+     * Booking Reports
+     */
 }
