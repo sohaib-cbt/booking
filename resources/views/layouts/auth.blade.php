@@ -5,8 +5,8 @@
   <title>Login | {{ config('app.name') }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon">
-  <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon">
+  <link rel="icon" href="{{ asset('assets/images/company-logo-icon.png') }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ asset('assets/images/company-logo-icon.png') }}" type="image/x-icon">
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">

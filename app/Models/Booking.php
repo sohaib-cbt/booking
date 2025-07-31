@@ -58,10 +58,17 @@ class Booking extends Model
     {
         return $this->hasMany(Contact::class);
     }
+    public function school()
+    {
+        return $this->belongsTo(School::class);
+    }
+    public function therapist()
+    {
+        return $this->belongsTo(Therapist::class);
+    }
 
     public function groups()
     {
         return $this->belongsToMany(Group::class, 'booking_group_booking', 'booking_id', 'group_id');
     }
-
 }

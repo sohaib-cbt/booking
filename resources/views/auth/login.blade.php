@@ -15,7 +15,7 @@
                 <div class="login-card">
                     <div>
                         <div class="login-main">
-                            <div><a class="logo" href="index.html"><img class="img-fluid for-dark" src="{{ asset('assets/images/thrive_logo.jpg') }}" alt="looginpage"><img class="img-fluid for-light" src="{{ asset('assets/images/thrive_logo.png') }}" alt="looginpage" style="height: 100px"></a></div>
+                            <div><a class="logo"><img class="img-fluid for-dark" src="{{ asset('assets/images/company-logo.png') }}" alt="looginpage"><img class="img-fluid for-light" src="{{ asset('assets/images/thrive_logo.png') }}" alt="looginpage" style="height: 100px"></a></div>
                             <form method="POST" action="{{ route('login') }}" class="theme-form">
                                 @csrf
 
@@ -57,7 +57,7 @@
                                         <input id="checkbox1" type="checkbox" name="remember">
                                         <label class="text-muted" for="checkbox1">Remember password</label>
                                     </div>
-                                    <a class="link" href="{{ route('password.request') }}">Forgot password?</a>
+                                    {{-- <a class="link" href="{{ route('password.request') }}">Forgot password?</a> --}}
                                     <div class="text-end mt-3">
                                         <button class="btn btn-primary btn-block w-100" type="submit">Sign in</button>
                                     </div>

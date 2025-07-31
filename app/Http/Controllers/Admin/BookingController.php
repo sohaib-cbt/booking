@@ -623,4 +623,5 @@ class BookingController extends Controller
 
         return response()->json(['message' => 'Booking removed from group']);
     }
+
 }
