@@ -370,11 +370,10 @@ class BookingController extends Controller
      */
     public function updateCentreHome(Request $request)
     {
-        $filteredRooms = array_filter($request->input('rooms', []), function ($value) {
+       $filteredRooms = array_values(array_filter($request->input('rooms', []), function ($value) {
             return $value !== null && $value !== '';
-        });
+        }));
 
-        // Merge filtered rooms back into the request
         $request->merge(['rooms' => $filteredRooms]);
 
         // Validate request
@@ -392,8 +391,7 @@ class BookingController extends Controller
             'report_time' => 'nullable|string',
             'reoccur_app_info' => 'nullable|string',
             'rooms' => 'nullable|array',
-            'rooms.*' => 'exists:rooms,id',
-            'inform_to' => 'nullable|array',
+'rooms.*' => 'nullable|exists:rooms,id',            'inform_to' => 'nullable|array',
             'inform_to.*' => 'string',
             'comments' => 'nullable|string',
         ]);

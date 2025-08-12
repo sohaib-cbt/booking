@@ -201,7 +201,7 @@
               <div class="col-xxl-4 col-sm-6">
                   <label class="form-label" for="room1">1st Room <span class="txt-danger">*</span></label>
                   <select class="form-select @error('rooms.0') is-invalid @enderror rooms" name="rooms[]" required>
-                      <option>Select Room</option>
+                      <option value="">Select Room</option>
                       @foreach ($rooms as $room)
                           <option value="{{ $room->id }}"
                               {{ old('rooms.0', $selectedRooms[0] ?? '') == $room->id ? 'selected' : '' }}>
@@ -234,7 +234,7 @@
               <div class="col-xxl-4 col-sm-6">
                   <label class="form-label" for="room3">3rd Room</label>
                   <select class="form-select rooms" name="rooms[]">
-                      <option>Select Room</option>
+                      <option value="">Select Room</option>
                       @foreach ($rooms as $room)
                           <option value="{{ $room->id }}"
                               {{ old('rooms.2', $selectedRooms[2] ?? '') == $room->id ? 'selected' : '' }}>
